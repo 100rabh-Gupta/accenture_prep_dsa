@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/saurabh/College/placements/accenture/dsa",
+      "program": "/Users/saurabh/College/placements/accenture/dsa/build/Debug/outDebug"
+    }
+  ]
+}
